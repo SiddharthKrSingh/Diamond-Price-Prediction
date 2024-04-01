@@ -19,7 +19,7 @@ We have build the training_pipeline and the test_pipeline to automate the proces
 ## 5. ADDITION INFORMATION
 flask is used to run the server
 
-# 7. TECHNOLOGY USED
+## 7. TECHNOLOGY USED
  a. python
  b. pandas 
  c. numpy
